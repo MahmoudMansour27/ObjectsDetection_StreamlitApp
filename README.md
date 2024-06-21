@@ -22,7 +22,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Model Download
 
-Due to its large size a couldn't push it to the resp so you can download **YOLOv3** from official [ImageAi GitHub repo]([GitHub - OlafenwaMoses/ImageAI: A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities](https://github.com/OlafenwaMoses/ImageAI/tree/master)) and put it inside a folder with name <mark>models</mark>.
+Due to its large size a couldn't push it to the resp so you can download **YOLOv3** from official [ImageAi GitHub repo](https://github.com/OlafenwaMoses/ImageAI/tree/master) and put it inside a folder with the name <mark>models</mark>.
 
 ## Usage
 
